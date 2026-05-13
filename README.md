@@ -300,7 +300,7 @@ If you already have Paperclip configured, rerunning `onboard` keeps the existing
 Or manually:
 
 ```bash
-git clone https://github.com/paperclipai/paperclip.git
+git clone https://github.com/Deniro/paperclip.git
 cd paperclip
 pnpm install
 pnpm dev
